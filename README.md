@@ -6,6 +6,7 @@ Tested on iPhone 16 Pro.
 Unit Tests are being written as of 29.05.2025
 
 The app grants you with a beutiful map view centered at your current position.
+
 <img src="https://github.com/user-attachments/assets/9b5bb0eb-fc8c-4818-8048-768cb7ef74dc" width="245">
 
 <img src="[https://github.com/user-attachments/assets/9b5bb0eb-fc8c-4818-8048-768cb7ef74dc](https://github.com/user-attachments/assets/06279e21-dbcb-4e03-8241-37be0aefda27)" width="245">

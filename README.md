@@ -16,7 +16,7 @@ The app shows you the most efficient route, and enables you to choose different 
 <img src="https://github.com/user-attachments/assets/0cc0b82f-69d1-4145-8925-9afd217a910b" width="245">
 
 The app contains nice animations enhancing the UX.
-<img src="https://github.com/user-attachments/assets/6b633e73-113f-4335-9f23-b171d7415f95">
+<img src="https://github.com/user-attachments/assets/b0472014-44fa-41a3-9b58-c41e94f5cdba">
 
 Highlight problems:
 1. The app calculates where the route is and how it should render it manually, mainly to take advantage of animations.
